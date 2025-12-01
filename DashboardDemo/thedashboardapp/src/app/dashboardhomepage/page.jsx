@@ -14,7 +14,7 @@ export default function page() {
         </div>
         <div className="cards-div">
             <Cards />
-            <Cards />
+            
         </div>
     </div>
   )
