@@ -4,7 +4,7 @@ export default function SideNav() {
   return (
     
     <nav className="menu" tabIndex="0">
-                <div className="smartphone-menu-trigger"></div>
+            <div className="smartphone-menu-trigger"></div>
             <header className="avatar">
                 <div className="avatar-img">
                     <Image 

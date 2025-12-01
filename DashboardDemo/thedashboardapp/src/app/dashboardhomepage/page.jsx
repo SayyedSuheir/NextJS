@@ -3,8 +3,14 @@ import SideNav from "@/components/sidenav/SideNav";
 
 export default function page() {
   return (
-    <div>
-        <SideNav />
+    <div className="dashboard-home">
+        <div className="dashboard-header">
+            <h1>The Dashboard</h1>
+        </div>
+        <div className="side-nav">
+          <SideNav />
+        </div>
+        
     </div>
   )
 }

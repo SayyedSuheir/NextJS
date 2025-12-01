@@ -118,7 +118,17 @@ p {
   font-weight: 600;
 }
 
-
+/* dashboard home css */
+.dashboard-home{
+  width:100%;
+  
+}
+.dashboard-header{
+  background-color: red;
+  width: 100%;
+  padding-left:20%;
+  height: 20vh;
+}
 /* sideNav css */
 
 .menu{
