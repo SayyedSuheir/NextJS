@@ -193,3 +193,19 @@ li{
 			cursor:pointer;
 }
 	
+/* cards css */
+.cards-div{
+  display: flex;
+  justify-content: center;
+  
+  
+ 
+}
+.card-container{
+  padding-left: 2%;
+}
+.card{
+  display: flex;
+  padding: 2%;
+  margin: 2%;
+}

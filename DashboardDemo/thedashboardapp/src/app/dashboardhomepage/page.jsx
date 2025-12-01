@@ -1,3 +1,5 @@
+
+import Cards from "@/components/cards/Cards";
 import SideNav from "@/components/sidenav/SideNav";
 
 
@@ -10,7 +12,10 @@ export default function page() {
         <div className="side-nav">
           <SideNav />
         </div>
-        
+        <div className="cards-div">
+            <Cards />
+            <Cards />
+        </div>
     </div>
   )
 }
